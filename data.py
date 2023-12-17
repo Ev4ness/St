@@ -44,15 +44,15 @@ kamu dapat menggunakan saya untuk menghasilkan sesi string Pyrogram dan Telethon
 """
 
     ABOUT = """
-**About This Bot** 
+**📝 Info Tentang Bot** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
+Telegram Bot untuk mengambil session string Pyrogram dan Telethon.
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+Developer : [Klik Disini](https://t.me/Usern4meDoesNotExist404)
 
 Framework : [Pyrogram](https://docs.pyrogram.org)
 
 Language : [Python](https://www.python.org)
 
-Developer : @StarkProgrammer
+Support : @SpotifyStreamMusic
     """
