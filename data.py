@@ -23,7 +23,7 @@ class Data:
 
     START = """
 Hallo {}
-nama saya adalah ({})(https://mallucampaign.in/images/img_1703290706.jpg)
+nama saya adalah [{}](https://mallucampaign.in/images/img_1703290706.jpg)
 jika Anda tidak mempercayai bot ini!
 ──────────────────────
 1) berhenti membaca pesan ini
