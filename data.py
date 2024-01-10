@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardButton
 
 
 class Data:
-    generate_single_button = [InlineKeyboardButton("Mulai Generating Session", callback_data="generate")]
+    generate_single_button = [InlineKeyboardButton("📚 Mulai Session String 📚", callback_data="generate")]
 
     home_buttons = [
         generate_single_button,
@@ -13,12 +13,12 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("Update", url="https://t.me/SpotifyStreamMusic")],
+        [InlineKeyboardButton("📝 Update 📝", url="https://t.me/Cari_Teman_Online_Sosmed")],
         [
-            InlineKeyboardButton("Bantuan", callback_data="help"),
-            InlineKeyboardButton("Info Bot", callback_data="about")
+            InlineKeyboardButton("❓ Bantuan", callback_data="help"),
+            InlineKeyboardButton("Info Bot ⚙️", callback_data="about")
         ],
-        [InlineKeyboardButton("Developer", url="https://t.me/Usern4meDoesNotExist404")],
+        [InlineKeyboardButton("🤖 Developer 🤖", url="https://t.me/UserDoesNotFound404")],
     ]
 
     START = """
@@ -54,5 +54,5 @@ Framework : [Pyrogram](https://docs.pyrogram.org)
 
 Language : [Python](https://www.python.org)
 
-Support : @SpotifyStreamMusic
+Support : @Cari_Teman_Online_Sosmed
     """
