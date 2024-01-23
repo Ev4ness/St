@@ -13,12 +13,12 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("📝 Update 📝", url="https://t.me/Cari_Teman_Online_Sosmed")],
+        [InlineKeyboardButton("📝 Update 📝", url="https://t.me/SpotifyStreamMusic")],
         [
             InlineKeyboardButton("❓ Bantuan", callback_data="help"),
             InlineKeyboardButton("Info Bot ⚙️", callback_data="about")
         ],
-        [InlineKeyboardButton("🤖 Developer 🤖", url="https://t.me/UserDoesNotFound404")],
+        [InlineKeyboardButton("🤖 Developer 🤖", url="https://t.me/Usern4meDoesNotExist404")],
     ]
 
     START = """
@@ -54,5 +54,5 @@ Framework : [Pyrogram](https://docs.pyrogram.org)
 
 Language : [Python](https://www.python.org)
 
-Support : @Cari_Teman_Online_Sosmed
+Support : [Support](SpotifyStreamMusic)
     """
