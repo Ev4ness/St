@@ -5,9 +5,9 @@ load_dotenv()
 
 API_ID = os.getenv("API_ID", "26724473").strip()
 API_HASH = os.getenv("API_HASH", "7bc7d1f9b2f3d3f1bfd272db56ac0ba1").strip()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "6949687629:AAGLAOCxgr0Z30cYZldqKvVjD-SP_AO4eRM").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7332958739:AAGt5hjItqpaE3X7fiz50_X44FRZkDDWezg").strip()
 DATABASE_URL = os.getenv("DATABASE_URL", "postgres://igzvmvzd:4G6i3O51PB9ZBSO0RcArUlcBBoWMv-es@bubble.db.elephantsql.com/igzvmvzd").strip()
-MUST_JOIN = os.getenv("MUST_JOIN", "@SpotifyStreamMusic")
+MUST_JOIN = os.getenv("MUST_JOIN", "@TemanDemus_Id")
 
 if not API_ID:
     print("No API_ID found. Exiting...")
